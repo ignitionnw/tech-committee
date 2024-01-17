@@ -38,8 +38,7 @@ capabilities (namely site hosting for private repositories) due to the non-
 profit designation on our GitHub organization account).
 
 Source code for site generation and the link directory lives at
-https://github.com/ignitionnw/meet. (We aim to move this to ignitionnw/links
-in the next week or so.)
+https://github.com/ignitionnw/permalink.
 
 Anyone who can edit the simple link directory file is capable of contributing
 updates to the redirection list.
